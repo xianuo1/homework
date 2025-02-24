@@ -1,6 +1,6 @@
 # 1. work1
 - 操作视频
-- 频率截图![输入图片说明](/imgs/2025-02-24/GenIGwstDupismAu.png)
+- 频率截图![1](https://github.com/xianuo1/homework/blob/main/%E9%A2%91%E7%8E%87%E6%88%AA%E5%9B%BE.png)
 - src源码
 运行方式：在带有ros2的系统下打开对应文件夹work1
 输入以下指令
